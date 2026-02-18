@@ -73,3 +73,7 @@ Backend project structure
 Handling upload workflows
 
 Security improvements and edge-case handling are being explored and added gradually
+
+
+
+![Upload Page](./screenshots/image.png)
